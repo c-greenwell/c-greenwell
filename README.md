@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Connor 👋
 
-<!--
-**c-greenwell/c-greenwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transitioning into cybersecurity, currently building out my skills and home lab.
 
-Here are some ideas to get you started:
+## 🎯 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Completing a Diploma of IT (Cyber Security & Business Analysis) — EQC Institute, finishing Nov 2026
+- 🏠 Building a home SIEM lab with Wazuh
+- 📚 Working through TryHackMe's Pre-Security path
+- 🎯 Aiming for SOC analyst roles, with a longer-term goal in government/defence-aligned cybersecurity (ASD, ACSC, Home Affairs)
+
+## 🛠️ Background
+
+Experience in high-pressure, safety-critical operations with a strong focus on compliance and incident reporting — skills that translate directly into a cybersecurity incident-response mindset.
+
+## 📂 Projects
+
+- **[wazuh-siem-lab](#)** — Home SIEM lab build, config, and troubleshooting notes
+- **[tryhackme-notes](#)** — Write-ups from TryHackMe's Pre-Security path
+
+## 📫 Get in touch
+
+- LinkedIn: Connor Greenwell
+- Email: connorjgreenwell@icloud.com
