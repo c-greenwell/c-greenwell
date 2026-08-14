@@ -15,7 +15,7 @@ Experience in high-pressure, safety-critical operations with a strong focus on c
 
 ## 📂 Projects
 
-- **[wazuh-siem-lab](#)** — Home SIEM lab build, config, and troubleshooting notes
+- **[wazuh-siem-lab](https://github.com/c-greenwell/wazuh-siem-lab)** — Home SIEM lab build, config, and troubleshooting notes
 - **[tryhackme-notes](#)** — Write-ups from TryHackMe's Pre-Security path
 
 ## 📫 Get in touch
